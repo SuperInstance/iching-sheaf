@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/iching_sheaf/__init__.py
+src/iching_sheaf/category.py
+src/iching_sheaf/graph.py
+src/iching_sheaf/hexagram.py
+src/iching_sheaf/persistence.py
+src/iching_sheaf/reading.py
+src/iching_sheaf/sheaf.py
+src/iching_sheaf/tropical.py
+src/iching_sheaf.egg-info/PKG-INFO
+src/iching_sheaf.egg-info/SOURCES.txt
+src/iching_sheaf.egg-info/dependency_links.txt
+src/iching_sheaf.egg-info/requires.txt
+src/iching_sheaf.egg-info/top_level.txt
+src/iching_sheaf/data/texts.py
+tests/test_iching.py
