@@ -49,3 +49,5 @@ print(analysis.obstruction_class())
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
